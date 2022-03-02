@@ -3,7 +3,9 @@
 - 🔭 Hoje trabalho como Analista de Dados JR
 - 🌱 Utilizo a ferramenta Power BI há 2 anos
 - 📖 Estou estudando para me tornar Front-End
-- 💬 Estudo HTML5, CSS3, JavaScript e Python
+- 💬 Estudo HTML5, CSS3, JavaScript e Python 
+
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,18 +15,18 @@
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
-  ##
-  
-[![Meu Status no GitHub](https://github-readme-stats.vercel.app/api?username=maykelsantos&show_icons=true&theme=dark)](https://github.com/maykelsantos/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykelsantos&langs_count=8&layout=compact&theme=dark)](https://github.com/maykelsantos/github-readme-stats)
   
-  ##
+<div>
+  <a href="https://github.com/maykelsantos/maykelsantos.git"><img alt="Maykel Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=maykelsantos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/maykelsantos/maykelsantos.git"><img alt="Maykel Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykelsantos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<div>
+
+<br>
   
-<div> 
+<div>
   <a href="https://www.youtube.com/channel/UCAwQ5TFoR2FxIR08b7UvJ8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/maykeloriginal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eumaykelandre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maykelandre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/maykelandre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
