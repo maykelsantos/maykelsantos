@@ -1,7 +1,7 @@
 <h1> Deus é bom, o tempo todo! 👋</h1>
 
 <ul>
-  <li>🔭 Hoje trabalho como Analista de Dados JR</li>
+  <li>🔭 Hoje trabalho como Analista de Dados</li>
   <li>🌱 Utilizo a ferramenta Power BI há 2 anos</li>
   <li>📖 Estou estudando para me tornar Front-End</li>
   <li>💬 Estudo HTML5, CSS3, JavaScript e Python</li>
