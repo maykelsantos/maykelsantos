@@ -2,7 +2,7 @@
 
 <ul>
   <li>🔭 Hoje trabalho como Analista de Dados</li>
-  <li>🌱 Utilizo a ferramenta Power BI há 2 anos</li>
+  <li>🌱 Utilizo a ferramenta Power BI desde 2019</li>
   <li>📖 Estou estudando para me tornar Front-End</li>
   <li>💬 Estudo HTML5, CSS3, JavaScript e Python</li>
 </ul>  
