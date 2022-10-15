@@ -3,7 +3,7 @@
 <ul>
   <li>🔭 Hoje trabalho como Analista de Dados</li>
   <li>🌱 Utilizo a ferramenta Power BI desde 2019</li>
-  <li>💬 Estudo HTML5, CSS3, JavaScript e Python</li>
+  <li>💬 Estudo Python</li>
 </ul>  
 <h2> Linguagens em Aprendizado:
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
