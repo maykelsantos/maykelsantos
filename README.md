@@ -4,11 +4,7 @@
   <li>🔭 Hoje trabalho como Analista de Dados</li>
   <li>🌱 Utilizo a ferramenta Power BI desde 2019</li>
   <li>💬 Estudo Python</li>
-</ul>  
-<h2> Linguagens em Aprendizado:
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=67">
-</h2>
+</ul>
   
   <h2>Minhas Estatísticas 👇🏾
     <br>
