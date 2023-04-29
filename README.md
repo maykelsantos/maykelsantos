@@ -2,8 +2,7 @@
 
 <ul>
   <li>🔭 Hoje trabalho como Analista de Dados</li>
-  <li>🌱 Utilizo a ferramenta Power BI desde 2019</li>
-  <li>💬 Estudo Python</li>
+  <li>🌱 Utilizo Power BI e Python desde 2019</li>
 </ul>
   
   <h2>Minhas Estatísticas 👇🏾
