@@ -15,9 +15,9 @@
   <br>
   <br>
   <div>
-    <a href="https://www.youtube.com/@maykeltech" target="external"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="external"></a>
-    <a href="https://www.instagram.com/tech.maykel/" target="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="external"></a>
-    <a href = "mailto:eumaykelandre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="external"></a>
-    <a href="https://www.linkedin.com/in/maykelandre" target="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="external"></a>
+    <a href="https://www.youtube.com/@maykeltech" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="external"></a>
+    <a href="https://www.instagram.com/tech.maykel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="external"></a>
+    <a href = "mailto:eumaykelandre@gmail.com" targe="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="external"></a>
+    <a href="https://www.linkedin.com/in/maykelandre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="external"></a>
   </div>
 </h2>
